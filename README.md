@@ -25,6 +25,7 @@ SkiaSharp provides cross-platform bindings for:
  - .NET Standard 1.3
  - .NET Core
  - .NET 6
+ - .NET 7
  - Tizen
  - Android
  - iOS
